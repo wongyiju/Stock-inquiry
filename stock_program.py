@@ -131,7 +131,7 @@ def company_identification(message):
         return 'SINA'
     if 'sohu' in message or 'souhu' in message:
         return 'SOHU'
-    if 'ntes' in message or 'wangyi' in message:
+    if 'ntes' in message or 'netease' in message:
         return 'NTES'
     return None
 
