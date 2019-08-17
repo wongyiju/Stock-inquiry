@@ -1,5 +1,5 @@
 # Demo-Video
-[click here]()
+[click here](https://github.com/wongyiju/Stock-inquiry/blob/master/stock_presentation.mkv)
 # Demo-Picture
 ![](https://github.com/wongyiju/Stock-inquiry/blob/master/demo-picture.png)
 # Brief Introduction
